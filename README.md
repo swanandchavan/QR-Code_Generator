@@ -1,4 +1,4 @@
-# QR-Code_Generator
+
 <h1>QR Code Generator</h1>
 <hr>
 Python app with tkinter to generate qr code of given text and save it in .png format.
